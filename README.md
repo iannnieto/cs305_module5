@@ -31,3 +31,6 @@ See also the list of contributors who participated in this project.
 ## License
 
 This project is licensed under the UnLicense
+
+## NEW MODULE
+* Created new module for making this experience awesome, will be rolling it out soon.
